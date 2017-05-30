@@ -15,8 +15,8 @@ Ans:
 3) Provided background (brief history will be discussed),
    concept (++), and examples (+++)
 
-** I am still think of the diagrams in the book.
-   Diagram drawed by a simple diagram edtior would be the choice
+** I am still think of the SysML diagrams used in the book.
+   Simply use a simple diagram edtior would be the choice
 
 What makes my content different than the other SysML books out there?
 
