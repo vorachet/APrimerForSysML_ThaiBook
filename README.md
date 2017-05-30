@@ -23,7 +23,6 @@ What makes my content different than the other SysML books out there?
 Ans:
 
 1) The book will be written in Thai language.
-2) Example, Situation, Objective, Action ,and Benefit from the created model are
-   the format of the book
+2) Book format - Example, Situation, Objective, Action ,and Review
 
 ```
